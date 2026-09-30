@@ -129,11 +129,11 @@ void loop() {
 3. Build and deploy to your Android device (`:app:assembleDebug`).
 4. Tap **SCAN & CONNECT BLE DEVICE** to connect to ESP32, or tap **START DEMO MODE** for simulated live presentation testing.
 
----
 
 
 
----
+
+
 
 <p align="center">
   <b>Developed for Smart India Hackathon (SIH)</b><br>
