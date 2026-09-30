@@ -123,7 +123,7 @@ void loop() {
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MedNexus.git
+   git clone https://github.com/smajhi17/MedNexus.git
    ```
 2. Open the project in **Android Studio**.
 3. Build and deploy to your Android device (`:app:assembleDebug`).
