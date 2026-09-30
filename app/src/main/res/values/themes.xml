@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HealthCompanion" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/mednexus_primary</item>
+        <item name="colorPrimaryVariant">@color/mednexus_primary_dark</item>
+        <item name="android:statusBarColor">@color/mednexus_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.HealthCompanion" parent="Base.Theme.HealthCompanion" />
+</resources>

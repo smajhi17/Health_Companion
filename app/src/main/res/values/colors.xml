@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mednexus_primary">#0D47A1</color>
+    <color name="mednexus_primary_dark">#0A3880</color>
+    <color name="mednexus_accent">#1976D2</color>
+
+    <color name="bg_main">#F4F6F9</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="status_box_bg">#E8EAF6</color>
+    <color name="status_box_text">#1A237E</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#666666</color>
+
+    <color name="heart_rate_color">#D32F2F</color>
+    <color name="spo2_color">#1976D2</color>
+    <color name="temp_color">#E65100</color>
+    <color name="humidity_color">#00838F</color>
+    <color name="activity_color">#2E7D32</color>
+    <color name="fall_normal_color">#2E7D32</color>
+</resources>
